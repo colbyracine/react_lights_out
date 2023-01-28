@@ -1,0 +1,15 @@
+.Cell {
+  height: 100px;
+  width: 100px;
+  background-color: black;
+  cursor: pointer;
+}
+
+.Cell-lit {
+  background-color: gray;
+}
+
+.Board {
+  border: solid black;
+  justify-content: center;
+}
